@@ -1,0 +1,52 @@
+
+C- COMPILATION: gcd.cm
+
+Building Symbol Table...
+
+Symbol table:
+
+Scope name : ~:gcd
+----------------------------------
+Variable Name  Variable Type  Location   Line Numbers
+-------------  -------------  --------   ------------
+u              Integer       0            4    6    7    7 
+v              Integer       1            4    6    7    7    7 
+----------------------------------
+
+
+
+Scope name : ~:output
+----------------------------------
+Variable Name  Variable Type  Location   Line Numbers
+-------------  -------------  --------   ------------
+arg            Integer       0            0 
+----------------------------------
+
+
+
+Scope name : ~
+----------------------------------
+Variable Name  Variable Type  Location   Line Numbers
+-------------  -------------  --------   ------------
+main           Void          3           11 
+input          Integer       1            0   15   16 
+output         Void          0            0   17 
+gcd            Integer       2            4    7   17 
+----------------------------------
+
+
+
+Scope name : ~:main:18
+----------------------------------
+Variable Name  Variable Type  Location   Line Numbers
+-------------  -------------  --------   ------------
+x              Integer       0           13   15   17 
+y              Integer       1           14   16   17 
+----------------------------------
+
+
+
+
+Checking Types...
+
+Type Checking Finished

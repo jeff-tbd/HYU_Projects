@@ -1,0 +1,65 @@
+DBMS : DB를 관리하는 프로그램
+서버가 붙어있는 DBMS 유저 권한 관리가 중요
+오라클, MYSQL 같은 DBMS가 대표적인 예시
+대부분이 MYSQL을 사용한다.
+MYSQL회사 다니는 사람들이 fork를 해서 만든 것이 mariaDB이다.
+
+1. mariaDB는 MYSQL과 똑같이 만들었다.
+2. 성능이 MYSQL보다 좋다는 평이 있다.
+
+stable release를 받는다.
+
+root password : 1234
+UTFB를 사용한다 check.
+
+serviec Name : MySQL
+networking 허용해야 한다.
+
+install
+
+MySQL client 실행 : 
+commend line MySQL이라고 치면 뜨는 창 - 비밀번호 입력시 로그인
+MySQL안으로 들어올 수 있다.
+
+여러개의 DB를 관리하고 있다. -> CREATE table 전 과정이 필요하다.
+
+show databases; //현재 DB를 보여준다.
+create database company; // company DB를 만든다.
+
+내가 어느 DB에 Query를 날리겠다고 설정해야 한다.
+use company; //DB가 바뀐다.
+show tables; //DB에 어떤 스키마 존재하는지 보여줌.
+
+create table abcd (a int); //table 생성.
+insert into abcd values (1);
+select * from abcd; // abcd에 있는 모든 것을 보여준다.
+exit; //탈출
+
+-->이과정을 쉽게 할 수 있는 tool이 있다.
+-->세션 관리자.
+네트워크 : MySQL(TCP/IP)
+호스트/IP : 내꺼
+-->쿼리를 날릴 수 있다.
+-->DB관리가 편해진다.
+
+과제는 java를 통해서 짜야 한다.
+JDBC라는 라이브러리를 사용한다.
+
+application - JDBC API - JDBC Driver(MariaDB) - dB에 접속
+
+application programming with JDBC
+1. JDBC driver
+2. connection to DBMS
+3. SQL queries 실행
+4. query 결과 다루기
+4. 
+
+
+classpath에 jar를 연결해주어야 한다.(J-Driver class file 연결)
+
+rs.close
+stmt.close
+con.close
+
+
+

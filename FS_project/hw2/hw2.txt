@@ -1,0 +1,67 @@
+pf.h
+//page file component interface
+//3개의 class로 구성 - oop로 구현됨
+
+1.PF_Manager
+//기본 입출력 함수+
+RC CreateFile(const char*)
+RC DestroyFile(const char*)
+RC OpenFile(const char*, PF_FildHandle &fileHandle)
+RC CloseFile(PF_FileHandle &fileHandle)
+RC AllocateBlock(char* &buffer)
+RC DisposeBlock(char* buffer)
+
+2.PF_FileHandle
+//open file의 page에 접근
+GetFirstPage(PF_PageHandle &pageHandle) const;
+GetNextPage(PageNum current, PF_PAgeHandle &pageHandle) const;
+GetThisPage
+GetPrevPage
+AllocatePage
+//pBufferMgr->GetPage 에서 pincount++
+//unpinned해줘야 한다
+
+DisposePage
+MarkDirty(pageNum)
+UnpinPage(pageNum)
+FlushPages
+ForcePages
+
+3.PF_PageHandle
+RC GetData(pData)
+//pinned된 page의 내용에 접근
+//pData = pPageData //할당 받은 페이지의 데이터 필드 값을 pData에 저장
+//return 0일때 ok, unpinned되어있을 경우 7 return
+RC GetPageNum(pageNum)
+//
+
+
+pf_buffermgr.h
+//BufTable 구조
+pData -> PF_PageHdr
+bDirty -> PF_BufPageDesc
+next prev pinC Page# fd
+
+//BufTable Block 삭제할 경우 Free List 생성
+PF_FileHdr : firstFree, numPages
+PF_PageHdr : pinned된 page일 경우 PF_PAGE_USED를 참조
+
+
+pf_hashtable.h
+//HashTable에 저장되는 interface
+//*next *prev fd pageNum slot
+//Hash Table은 Hash Function을 통해 bufTable 접근
+
+
+
+1.insertContact
+fh.AllocatePage(ph)
+//pageNum에 hdr.firstFree를 받고 buffer에 집어넣는다.
+//pBufferMgr->GetPage(unixfd, pageNum, &pPageBuf); pincount++
+//firstfree 를 next page로 setting 해준다.
+ph.GetData(pData)
+//pData = pPageData pData가 page contents 가리키게 setting한다.
+ph.GetPageNum(pageNum)
+//pageNum = this->pageNum;1
+recordTo_pData(person, pData);
+//pData에 record 값 입력.
