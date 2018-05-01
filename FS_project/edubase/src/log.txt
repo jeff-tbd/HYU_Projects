@@ -1,0 +1,1276 @@
+Starting IX component test.
+
+Test3: Delete many integer entries from an index... 
+             Adding 57971 int entries
+Print called with level 3
+-1<--344{page# 344;order 340;numKeys 2{}->-1
+ 
+ 
+-1<--3{page# 3;order 340;numKeys 170{}->343
+ 
+ 
+-1<--1{page# 1;order 340;numKeys 170{}->2
+ 
+ 
+1<--2{page# 2;order 340;numKeys 170{}->4
+ 
+ 
+2<--4{page# 4;order 340;numKeys 170{}->5
+ 
+ 
+4<--5{page# 5;order 340;numKeys 170{}->6
+ 
+ 
+5<--6{page# 6;order 340;numKeys 170{}->7
+ 
+ 
+6<--7{page# 7;order 340;numKeys 170{}->8
+ 
+ 
+7<--8{page# 8;order 340;numKeys 170{}->9
+ 
+ 
+8<--9{page# 9;order 340;numKeys 170{}->10
+ 
+ 
+9<--10{page# 10;order 340;numKeys 170{}->11
+ 
+ 
+10<--11{page# 11;order 340;numKeys 170{}->12
+ 
+ 
+11<--12{page# 12;order 340;numKeys 170{}->13
+ 
+ 
+12<--13{page# 13;order 340;numKeys 170{}->14
+ 
+ 
+13<--14{page# 14;order 340;numKeys 170{}->15
+ 
+ 
+14<--15{page# 15;order 340;numKeys 170{}->16
+ 
+ 
+15<--16{page# 16;order 340;numKeys 170{}->17
+ 
+ 
+16<--17{page# 17;order 340;numKeys 170{}->18
+ 
+ 
+17<--18{page# 18;order 340;numKeys 170{}->19
+ 
+ 
+18<--19{page# 19;order 340;numKeys 170{}->20
+ 
+ 
+19<--20{page# 20;order 340;numKeys 170{}->21
+ 
+ 
+20<--21{page# 21;order 340;numKeys 170{}->22
+ 
+ 
+21<--22{page# 22;order 340;numKeys 170{}->23
+ 
+ 
+22<--23{page# 23;order 340;numKeys 170{}->24
+ 
+ 
+23<--24{page# 24;order 340;numKeys 170{}->25
+ 
+ 
+24<--25{page# 25;order 340;numKeys 170{}->26
+ 
+ 
+25<--26{page# 26;order 340;numKeys 170{}->27
+ 
+ 
+26<--27{page# 27;order 340;numKeys 170{}->28
+ 
+ 
+27<--28{page# 28;order 340;numKeys 170{}->29
+ 
+ 
+28<--29{page# 29;order 340;numKeys 170{}->30
+ 
+ 
+29<--30{page# 30;order 340;numKeys 170{}->31
+ 
+ 
+30<--31{page# 31;order 340;numKeys 170{}->32
+ 
+ 
+31<--32{page# 32;order 340;numKeys 170{}->33
+ 
+ 
+32<--33{page# 33;order 340;numKeys 170{}->34
+ 
+ 
+33<--34{page# 34;order 340;numKeys 170{}->35
+ 
+ 
+34<--35{page# 35;order 340;numKeys 170{}->36
+ 
+ 
+35<--36{page# 36;order 340;numKeys 170{}->37
+ 
+ 
+36<--37{page# 37;order 340;numKeys 170{}->38
+ 
+ 
+37<--38{page# 38;order 340;numKeys 170{}->39
+ 
+ 
+38<--39{page# 39;order 340;numKeys 170{}->40
+ 
+ 
+39<--40{page# 40;order 340;numKeys 170{}->41
+ 
+ 
+40<--41{page# 41;order 340;numKeys 170{}->42
+ 
+ 
+41<--42{page# 42;order 340;numKeys 170{}->43
+ 
+ 
+42<--43{page# 43;order 340;numKeys 170{}->44
+ 
+ 
+43<--44{page# 44;order 340;numKeys 170{}->45
+ 
+ 
+44<--45{page# 45;order 340;numKeys 170{}->46
+ 
+ 
+45<--46{page# 46;order 340;numKeys 170{}->47
+ 
+ 
+46<--47{page# 47;order 340;numKeys 170{}->48
+ 
+ 
+47<--48{page# 48;order 340;numKeys 170{}->49
+ 
+ 
+48<--49{page# 49;order 340;numKeys 170{}->50
+ 
+ 
+49<--50{page# 50;order 340;numKeys 170{}->51
+ 
+ 
+50<--51{page# 51;order 340;numKeys 170{}->52
+ 
+ 
+51<--52{page# 52;order 340;numKeys 170{}->53
+ 
+ 
+52<--53{page# 53;order 340;numKeys 170{}->54
+ 
+ 
+53<--54{page# 54;order 340;numKeys 170{}->55
+ 
+ 
+54<--55{page# 55;order 340;numKeys 170{}->56
+ 
+ 
+55<--56{page# 56;order 340;numKeys 170{}->57
+ 
+ 
+56<--57{page# 57;order 340;numKeys 170{}->58
+ 
+ 
+57<--58{page# 58;order 340;numKeys 170{}->59
+ 
+ 
+58<--59{page# 59;order 340;numKeys 170{}->60
+ 
+ 
+59<--60{page# 60;order 340;numKeys 170{}->61
+ 
+ 
+60<--61{page# 61;order 340;numKeys 170{}->62
+ 
+ 
+61<--62{page# 62;order 340;numKeys 170{}->63
+ 
+ 
+62<--63{page# 63;order 340;numKeys 170{}->64
+ 
+ 
+63<--64{page# 64;order 340;numKeys 170{}->65
+ 
+ 
+64<--65{page# 65;order 340;numKeys 170{}->66
+ 
+ 
+65<--66{page# 66;order 340;numKeys 170{}->67
+ 
+ 
+66<--67{page# 67;order 340;numKeys 170{}->68
+ 
+ 
+67<--68{page# 68;order 340;numKeys 170{}->69
+ 
+ 
+68<--69{page# 69;order 340;numKeys 170{}->70
+ 
+ 
+69<--70{page# 70;order 340;numKeys 170{}->71
+ 
+ 
+70<--71{page# 71;order 340;numKeys 170{}->72
+ 
+ 
+71<--72{page# 72;order 340;numKeys 170{}->73
+ 
+ 
+72<--73{page# 73;order 340;numKeys 170{}->74
+ 
+ 
+73<--74{page# 74;order 340;numKeys 170{}->75
+ 
+ 
+74<--75{page# 75;order 340;numKeys 170{}->76
+ 
+ 
+75<--76{page# 76;order 340;numKeys 170{}->77
+ 
+ 
+76<--77{page# 77;order 340;numKeys 170{}->78
+ 
+ 
+77<--78{page# 78;order 340;numKeys 170{}->79
+ 
+ 
+78<--79{page# 79;order 340;numKeys 170{}->80
+ 
+ 
+79<--80{page# 80;order 340;numKeys 170{}->81
+ 
+ 
+80<--81{page# 81;order 340;numKeys 170{}->82
+ 
+ 
+81<--82{page# 82;order 340;numKeys 170{}->83
+ 
+ 
+82<--83{page# 83;order 340;numKeys 170{}->84
+ 
+ 
+83<--84{page# 84;order 340;numKeys 170{}->85
+ 
+ 
+84<--85{page# 85;order 340;numKeys 170{}->86
+ 
+ 
+85<--86{page# 86;order 340;numKeys 170{}->87
+ 
+ 
+86<--87{page# 87;order 340;numKeys 170{}->88
+ 
+ 
+87<--88{page# 88;order 340;numKeys 170{}->89
+ 
+ 
+88<--89{page# 89;order 340;numKeys 170{}->90
+ 
+ 
+89<--90{page# 90;order 340;numKeys 170{}->91
+ 
+ 
+90<--91{page# 91;order 340;numKeys 170{}->92
+ 
+ 
+91<--92{page# 92;order 340;numKeys 170{}->93
+ 
+ 
+92<--93{page# 93;order 340;numKeys 170{}->94
+ 
+ 
+93<--94{page# 94;order 340;numKeys 170{}->95
+ 
+ 
+94<--95{page# 95;order 340;numKeys 170{}->96
+ 
+ 
+95<--96{page# 96;order 340;numKeys 170{}->97
+ 
+ 
+96<--97{page# 97;order 340;numKeys 170{}->98
+ 
+ 
+97<--98{page# 98;order 340;numKeys 170{}->99
+ 
+ 
+98<--99{page# 99;order 340;numKeys 170{}->100
+ 
+ 
+99<--100{page# 100;order 340;numKeys 170{}->101
+ 
+ 
+100<--101{page# 101;order 340;numKeys 170{}->102
+ 
+ 
+101<--102{page# 102;order 340;numKeys 170{}->103
+ 
+ 
+102<--103{page# 103;order 340;numKeys 170{}->104
+ 
+ 
+103<--104{page# 104;order 340;numKeys 170{}->105
+ 
+ 
+104<--105{page# 105;order 340;numKeys 170{}->106
+ 
+ 
+105<--106{page# 106;order 340;numKeys 170{}->107
+ 
+ 
+106<--107{page# 107;order 340;numKeys 170{}->108
+ 
+ 
+107<--108{page# 108;order 340;numKeys 170{}->109
+ 
+ 
+108<--109{page# 109;order 340;numKeys 170{}->110
+ 
+ 
+109<--110{page# 110;order 340;numKeys 170{}->111
+ 
+ 
+110<--111{page# 111;order 340;numKeys 170{}->112
+ 
+ 
+111<--112{page# 112;order 340;numKeys 170{}->113
+ 
+ 
+112<--113{page# 113;order 340;numKeys 170{}->114
+ 
+ 
+113<--114{page# 114;order 340;numKeys 170{}->115
+ 
+ 
+114<--115{page# 115;order 340;numKeys 170{}->116
+ 
+ 
+115<--116{page# 116;order 340;numKeys 170{}->117
+ 
+ 
+116<--117{page# 117;order 340;numKeys 170{}->118
+ 
+ 
+117<--118{page# 118;order 340;numKeys 170{}->119
+ 
+ 
+118<--119{page# 119;order 340;numKeys 170{}->120
+ 
+ 
+119<--120{page# 120;order 340;numKeys 170{}->121
+ 
+ 
+120<--121{page# 121;order 340;numKeys 170{}->122
+ 
+ 
+121<--122{page# 122;order 340;numKeys 170{}->123
+ 
+ 
+122<--123{page# 123;order 340;numKeys 170{}->124
+ 
+ 
+123<--124{page# 124;order 340;numKeys 170{}->125
+ 
+ 
+124<--125{page# 125;order 340;numKeys 170{}->126
+ 
+ 
+125<--126{page# 126;order 340;numKeys 170{}->127
+ 
+ 
+126<--127{page# 127;order 340;numKeys 170{}->128
+ 
+ 
+127<--128{page# 128;order 340;numKeys 170{}->129
+ 
+ 
+128<--129{page# 129;order 340;numKeys 170{}->130
+ 
+ 
+129<--130{page# 130;order 340;numKeys 170{}->131
+ 
+ 
+130<--131{page# 131;order 340;numKeys 170{}->132
+ 
+ 
+131<--132{page# 132;order 340;numKeys 170{}->133
+ 
+ 
+132<--133{page# 133;order 340;numKeys 170{}->134
+ 
+ 
+133<--134{page# 134;order 340;numKeys 170{}->135
+ 
+ 
+134<--135{page# 135;order 340;numKeys 170{}->136
+ 
+ 
+135<--136{page# 136;order 340;numKeys 170{}->137
+ 
+ 
+136<--137{page# 137;order 340;numKeys 170{}->138
+ 
+ 
+137<--138{page# 138;order 340;numKeys 170{}->139
+ 
+ 
+138<--139{page# 139;order 340;numKeys 170{}->140
+ 
+ 
+139<--140{page# 140;order 340;numKeys 170{}->141
+ 
+ 
+140<--141{page# 141;order 340;numKeys 170{}->142
+ 
+ 
+141<--142{page# 142;order 340;numKeys 170{}->143
+ 
+ 
+142<--143{page# 143;order 340;numKeys 170{}->144
+ 
+ 
+143<--144{page# 144;order 340;numKeys 170{}->145
+ 
+ 
+144<--145{page# 145;order 340;numKeys 170{}->146
+ 
+ 
+145<--146{page# 146;order 340;numKeys 170{}->147
+ 
+ 
+146<--147{page# 147;order 340;numKeys 170{}->148
+ 
+ 
+147<--148{page# 148;order 340;numKeys 170{}->149
+ 
+ 
+148<--149{page# 149;order 340;numKeys 170{}->150
+ 
+ 
+149<--150{page# 150;order 340;numKeys 170{}->151
+ 
+ 
+150<--151{page# 151;order 340;numKeys 170{}->152
+ 
+ 
+151<--152{page# 152;order 340;numKeys 170{}->153
+ 
+ 
+152<--153{page# 153;order 340;numKeys 170{}->154
+ 
+ 
+153<--154{page# 154;order 340;numKeys 170{}->155
+ 
+ 
+154<--155{page# 155;order 340;numKeys 170{}->156
+ 
+ 
+155<--156{page# 156;order 340;numKeys 170{}->157
+ 
+ 
+156<--157{page# 157;order 340;numKeys 170{}->158
+ 
+ 
+157<--158{page# 158;order 340;numKeys 170{}->159
+ 
+ 
+158<--159{page# 159;order 340;numKeys 170{}->160
+ 
+ 
+159<--160{page# 160;order 340;numKeys 170{}->161
+ 
+ 
+160<--161{page# 161;order 340;numKeys 170{}->162
+ 
+ 
+161<--162{page# 162;order 340;numKeys 170{}->163
+ 
+ 
+162<--163{page# 163;order 340;numKeys 170{}->164
+ 
+ 
+163<--164{page# 164;order 340;numKeys 170{}->165
+ 
+ 
+164<--165{page# 165;order 340;numKeys 170{}->166
+ 
+ 
+165<--166{page# 166;order 340;numKeys 170{}->167
+ 
+ 
+166<--167{page# 167;order 340;numKeys 170{}->168
+ 
+ 
+167<--168{page# 168;order 340;numKeys 170{}->169
+ 
+ 
+168<--169{page# 169;order 340;numKeys 170{}->170
+ 
+ 
+169<--170{page# 170;order 340;numKeys 170{}->171
+ 
+ 
+170<--171{page# 171;order 340;numKeys 170{}->172
+ 
+ 
+3<--343{page# 343;order 340;numKeys 171{}->-1
+ 
+ 
+171<--172{page# 172;order 340;numKeys 170{}->173
+ 
+ 
+172<--173{page# 173;order 340;numKeys 170{}->174
+ 
+ 
+173<--174{page# 174;order 340;numKeys 170{}->175
+ 
+ 
+174<--175{page# 175;order 340;numKeys 170{}->176
+ 
+ 
+175<--176{page# 176;order 340;numKeys 170{}->177
+ 
+ 
+176<--177{page# 177;order 340;numKeys 170{}->178
+ 
+ 
+177<--178{page# 178;order 340;numKeys 170{}->179
+ 
+ 
+178<--179{page# 179;order 340;numKeys 170{}->180
+ 
+ 
+179<--180{page# 180;order 340;numKeys 170{}->181
+ 
+ 
+180<--181{page# 181;order 340;numKeys 170{}->182
+ 
+ 
+181<--182{page# 182;order 340;numKeys 170{}->183
+ 
+ 
+182<--183{page# 183;order 340;numKeys 170{}->184
+ 
+ 
+183<--184{page# 184;order 340;numKeys 170{}->185
+ 
+ 
+184<--185{page# 185;order 340;numKeys 170{}->186
+ 
+ 
+185<--186{page# 186;order 340;numKeys 170{}->187
+ 
+ 
+186<--187{page# 187;order 340;numKeys 170{}->188
+ 
+ 
+187<--188{page# 188;order 340;numKeys 170{}->189
+ 
+ 
+188<--189{page# 189;order 340;numKeys 170{}->190
+ 
+ 
+189<--190{page# 190;order 340;numKeys 170{}->191
+ 
+ 
+190<--191{page# 191;order 340;numKeys 170{}->192
+ 
+ 
+191<--192{page# 192;order 340;numKeys 170{}->193
+ 
+ 
+192<--193{page# 193;order 340;numKeys 170{}->194
+ 
+ 
+193<--194{page# 194;order 340;numKeys 170{}->195
+ 
+ 
+194<--195{page# 195;order 340;numKeys 170{}->196
+ 
+ 
+195<--196{page# 196;order 340;numKeys 170{}->197
+ 
+ 
+196<--197{page# 197;order 340;numKeys 170{}->198
+ 
+ 
+197<--198{page# 198;order 340;numKeys 170{}->199
+ 
+ 
+198<--199{page# 199;order 340;numKeys 170{}->200
+ 
+ 
+199<--200{page# 200;order 340;numKeys 170{}->201
+ 
+ 
+200<--201{page# 201;order 340;numKeys 170{}->202
+ 
+ 
+201<--202{page# 202;order 340;numKeys 170{}->203
+ 
+ 
+202<--203{page# 203;order 340;numKeys 170{}->204
+ 
+ 
+203<--204{page# 204;order 340;numKeys 170{}->205
+ 
+ 
+204<--205{page# 205;order 340;numKeys 170{}->206
+ 
+ 
+205<--206{page# 206;order 340;numKeys 170{}->207
+ 
+ 
+206<--207{page# 207;order 340;numKeys 170{}->208
+ 
+ 
+207<--208{page# 208;order 340;numKeys 170{}->209
+ 
+ 
+208<--209{page# 209;order 340;numKeys 170{}->210
+ 
+ 
+209<--210{page# 210;order 340;numKeys 170{}->211
+ 
+ 
+210<--211{page# 211;order 340;numKeys 170{}->212
+ 
+ 
+211<--212{page# 212;order 340;numKeys 170{}->213
+ 
+ 
+212<--213{page# 213;order 340;numKeys 170{}->214
+ 
+ 
+213<--214{page# 214;order 340;numKeys 170{}->215
+ 
+ 
+214<--215{page# 215;order 340;numKeys 170{}->216
+ 
+ 
+215<--216{page# 216;order 340;numKeys 170{}->217
+ 
+ 
+216<--217{page# 217;order 340;numKeys 170{}->218
+ 
+ 
+217<--218{page# 218;order 340;numKeys 170{}->219
+ 
+ 
+218<--219{page# 219;order 340;numKeys 170{}->220
+ 
+ 
+219<--220{page# 220;order 340;numKeys 170{}->221
+ 
+ 
+220<--221{page# 221;order 340;numKeys 170{}->222
+ 
+ 
+221<--222{page# 222;order 340;numKeys 170{}->223
+ 
+ 
+222<--223{page# 223;order 340;numKeys 170{}->224
+ 
+ 
+223<--224{page# 224;order 340;numKeys 170{}->225
+ 
+ 
+224<--225{page# 225;order 340;numKeys 170{}->226
+ 
+ 
+225<--226{page# 226;order 340;numKeys 170{}->227
+ 
+ 
+226<--227{page# 227;order 340;numKeys 170{}->228
+ 
+ 
+227<--228{page# 228;order 340;numKeys 170{}->229
+ 
+ 
+228<--229{page# 229;order 340;numKeys 170{}->230
+ 
+ 
+229<--230{page# 230;order 340;numKeys 170{}->231
+ 
+ 
+230<--231{page# 231;order 340;numKeys 170{}->232
+ 
+ 
+231<--232{page# 232;order 340;numKeys 170{}->233
+ 
+ 
+232<--233{page# 233;order 340;numKeys 170{}->234
+ 
+ 
+233<--234{page# 234;order 340;numKeys 170{}->235
+ 
+ 
+234<--235{page# 235;order 340;numKeys 170{}->236
+ 
+ 
+235<--236{page# 236;order 340;numKeys 170{}->237
+ 
+ 
+236<--237{page# 237;order 340;numKeys 170{}->238
+ 
+ 
+237<--238{page# 238;order 340;numKeys 170{}->239
+ 
+ 
+238<--239{page# 239;order 340;numKeys 170{}->240
+ 
+ 
+239<--240{page# 240;order 340;numKeys 170{}->241
+ 
+ 
+240<--241{page# 241;order 340;numKeys 170{}->242
+ 
+ 
+241<--242{page# 242;order 340;numKeys 170{}->243
+ 
+ 
+242<--243{page# 243;order 340;numKeys 170{}->244
+ 
+ 
+243<--244{page# 244;order 340;numKeys 170{}->245
+ 
+ 
+244<--245{page# 245;order 340;numKeys 170{}->246
+ 
+ 
+245<--246{page# 246;order 340;numKeys 170{}->247
+ 
+ 
+246<--247{page# 247;order 340;numKeys 170{}->248
+ 
+ 
+247<--248{page# 248;order 340;numKeys 170{}->249
+ 
+ 
+248<--249{page# 249;order 340;numKeys 170{}->250
+ 
+ 
+249<--250{page# 250;order 340;numKeys 170{}->251
+ 
+ 
+250<--251{page# 251;order 340;numKeys 170{}->252
+ 
+ 
+251<--252{page# 252;order 340;numKeys 170{}->253
+ 
+ 
+252<--253{page# 253;order 340;numKeys 170{}->254
+ 
+ 
+253<--254{page# 254;order 340;numKeys 170{}->255
+ 
+ 
+254<--255{page# 255;order 340;numKeys 170{}->256
+ 
+ 
+255<--256{page# 256;order 340;numKeys 170{}->257
+ 
+ 
+256<--257{page# 257;order 340;numKeys 170{}->258
+ 
+ 
+257<--258{page# 258;order 340;numKeys 170{}->259
+ 
+ 
+258<--259{page# 259;order 340;numKeys 170{}->260
+ 
+ 
+259<--260{page# 260;order 340;numKeys 170{}->261
+ 
+ 
+260<--261{page# 261;order 340;numKeys 170{}->262
+ 
+ 
+261<--262{page# 262;order 340;numKeys 170{}->263
+ 
+ 
+262<--263{page# 263;order 340;numKeys 170{}->264
+ 
+ 
+263<--264{page# 264;order 340;numKeys 170{}->265
+ 
+ 
+264<--265{page# 265;order 340;numKeys 170{}->266
+ 
+ 
+265<--266{page# 266;order 340;numKeys 170{}->267
+ 
+ 
+266<--267{page# 267;order 340;numKeys 170{}->268
+ 
+ 
+267<--268{page# 268;order 340;numKeys 170{}->269
+ 
+ 
+268<--269{page# 269;order 340;numKeys 170{}->270
+ 
+ 
+269<--270{page# 270;order 340;numKeys 170{}->271
+ 
+ 
+270<--271{page# 271;order 340;numKeys 170{}->272
+ 
+ 
+271<--272{page# 272;order 340;numKeys 170{}->273
+ 
+ 
+272<--273{page# 273;order 340;numKeys 170{}->274
+ 
+ 
+273<--274{page# 274;order 340;numKeys 170{}->275
+ 
+ 
+274<--275{page# 275;order 340;numKeys 170{}->276
+ 
+ 
+275<--276{page# 276;order 340;numKeys 170{}->277
+ 
+ 
+276<--277{page# 277;order 340;numKeys 170{}->278
+ 
+ 
+277<--278{page# 278;order 340;numKeys 170{}->279
+ 
+ 
+278<--279{page# 279;order 340;numKeys 170{}->280
+ 
+ 
+279<--280{page# 280;order 340;numKeys 170{}->281
+ 
+ 
+280<--281{page# 281;order 340;numKeys 170{}->282
+ 
+ 
+281<--282{page# 282;order 340;numKeys 170{}->283
+ 
+ 
+282<--283{page# 283;order 340;numKeys 170{}->284
+ 
+ 
+283<--284{page# 284;order 340;numKeys 170{}->285
+ 
+ 
+284<--285{page# 285;order 340;numKeys 170{}->286
+ 
+ 
+285<--286{page# 286;order 340;numKeys 170{}->287
+ 
+ 
+286<--287{page# 287;order 340;numKeys 170{}->288
+ 
+ 
+287<--288{page# 288;order 340;numKeys 170{}->289
+ 
+ 
+288<--289{page# 289;order 340;numKeys 170{}->290
+ 
+ 
+289<--290{page# 290;order 340;numKeys 170{}->291
+ 
+ 
+290<--291{page# 291;order 340;numKeys 170{}->292
+ 
+ 
+291<--292{page# 292;order 340;numKeys 170{}->293
+ 
+ 
+292<--293{page# 293;order 340;numKeys 170{}->294
+ 
+ 
+293<--294{page# 294;order 340;numKeys 170{}->295
+ 
+ 
+294<--295{page# 295;order 340;numKeys 170{}->296
+ 
+ 
+295<--296{page# 296;order 340;numKeys 170{}->297
+ 
+ 
+296<--297{page# 297;order 340;numKeys 170{}->298
+ 
+ 
+297<--298{page# 298;order 340;numKeys 170{}->299
+ 
+ 
+298<--299{page# 299;order 340;numKeys 170{}->300
+ 
+ 
+299<--300{page# 300;order 340;numKeys 170{}->301
+ 
+ 
+300<--301{page# 301;order 340;numKeys 170{}->302
+ 
+ 
+301<--302{page# 302;order 340;numKeys 170{}->303
+ 
+ 
+302<--303{page# 303;order 340;numKeys 170{}->304
+ 
+ 
+303<--304{page# 304;order 340;numKeys 170{}->305
+ 
+ 
+304<--305{page# 305;order 340;numKeys 170{}->306
+ 
+ 
+305<--306{page# 306;order 340;numKeys 170{}->307
+ 
+ 
+306<--307{page# 307;order 340;numKeys 170{}->308
+ 
+ 
+307<--308{page# 308;order 340;numKeys 170{}->309
+ 
+ 
+308<--309{page# 309;order 340;numKeys 170{}->310
+ 
+ 
+309<--310{page# 310;order 340;numKeys 170{}->311
+ 
+ 
+310<--311{page# 311;order 340;numKeys 170{}->312
+ 
+ 
+311<--312{page# 312;order 340;numKeys 170{}->313
+ 
+ 
+312<--313{page# 313;order 340;numKeys 170{}->314
+ 
+ 
+313<--314{page# 314;order 340;numKeys 170{}->315
+ 
+ 
+314<--315{page# 315;order 340;numKeys 170{}->316
+ 
+ 
+315<--316{page# 316;order 340;numKeys 170{}->317
+ 
+ 
+316<--317{page# 317;order 340;numKeys 170{}->318
+ 
+ 
+317<--318{page# 318;order 340;numKeys 170{}->319
+ 
+ 
+318<--319{page# 319;order 340;numKeys 170{}->320
+ 
+ 
+319<--320{page# 320;order 340;numKeys 170{}->321
+ 
+ 
+320<--321{page# 321;order 340;numKeys 170{}->322
+ 
+ 
+321<--322{page# 322;order 340;numKeys 170{}->323
+ 
+ 
+322<--323{page# 323;order 340;numKeys 170{}->324
+ 
+ 
+323<--324{page# 324;order 340;numKeys 170{}->325
+ 
+ 
+324<--325{page# 325;order 340;numKeys 170{}->326
+ 
+ 
+325<--326{page# 326;order 340;numKeys 170{}->327
+ 
+ 
+326<--327{page# 327;order 340;numKeys 170{}->328
+ 
+ 
+327<--328{page# 328;order 340;numKeys 170{}->329
+ 
+ 
+328<--329{page# 329;order 340;numKeys 170{}->330
+ 
+ 
+329<--330{page# 330;order 340;numKeys 170{}->331
+ 
+ 
+330<--331{page# 331;order 340;numKeys 170{}->332
+ 
+ 
+331<--332{page# 332;order 340;numKeys 170{}->333
+ 
+ 
+332<--333{page# 333;order 340;numKeys 170{}->334
+ 
+ 
+333<--334{page# 334;order 340;numKeys 170{}->335
+ 
+ 
+334<--335{page# 335;order 340;numKeys 170{}->336
+ 
+ 
+335<--336{page# 336;order 340;numKeys 170{}->337
+ 
+ 
+336<--337{page# 337;order 340;numKeys 170{}->338
+ 
+ 
+337<--338{page# 338;order 340;numKeys 170{}->339
+ 
+ 
+338<--339{page# 339;order 340;numKeys 170{}->340
+ 
+ 
+339<--340{page# 340;order 340;numKeys 170{}->341
+ 
+ 
+340<--341{page# 341;order 340;numKeys 170{}->342
+ 
+ 
+341<--342{page# 342;order 340;numKeys 171{}->-1
+ 
+ 
+State:Index is open.
+Index Root Page number:344
+Index Smallest Page number:1
+Index #Pages:345
+Index BTNode order:340
+Index B+ Tree Height:3
+Verifying index contents
+Verifying index contents
+******************After Deleteing*****************
+        Deleting 46376 int entries
+	0%      	0%      	1%      	1%      	2%      	2%      	3%      	3%      	3%      	4%      	4%      	5%      	5%      	6%      	6%      	6%      	7%      	7%      	8%      	8%      	9%      	9%      	9%      	10%      	10%      	11%      	11%      	12%      	12%      	12%      	13%      	13%      	14%      	14%      	15%      	15%      	15%      	16%      	16%      	17%      	17%      	18%      	18%      	18%      	19%      	19%      	20%      	20%      	21%      	21%      	21%      	22%      	22%      	23%      	23%      	24%      	24%      	25%      	25%      	25%      	26%      	26%      	27%      	27%      	28%      	28%      	28%      	29%      	29%      	30%      	30%      	31%      	31%      	31%      	32%      	32%      	33%      	33%      	34%      	34%      	34%      	35%      	35%      	36%      	36%      	37%      	37%      	37%      	38%      	38%      	39%      	39%      	40%      	40%      	40%      	41%      	41%      	42%      	42%      	43%      	43%      	43%      	44%      	44%      	45%      	45%      	46%      	46%      	47%      	47%      	47%      	48%      	48%      	49%      	49%      	50%      	50%      	50%      	51%      	51%      	52%      	52%      	53%      	53%      	53%      	54%      	54%      	55%      	55%      	56%      	56%      	56%      	57%      	57%      	58%      	58%      	59%      	59%      	59%      	60%      	60%      	61%      	61%      	62%      	62%      	62%      	63%      	63%      	64%      	64%      	65%      	65%      	65%      	66%      	66%      	67%      	67%      	68%      	68%      	69%      	69%      	69%      	70%      	70%      	71%      	71%      	72%      	72%      	72%      	73%      	73%      	74%      	74%      	75%      	75%      	75%      	76%      	76%      	77%      	77%      	78%      	78%      	78%      	79%      	79%      	80%      	80%      	81%      	81%      	81%      	82%      	82%      	83%      	83%      	84%      	84%      	84%      	85%      	85%      	86%      	86%      	87%      	87%      	87%      	88%      	88%      	89%      	89%      	90%      	90%      	90%      	91%      	91%      	92%      	92%      	93%      	93%      	94%      	94%      	94%      	95%      	95%      	96%      	96%      	97%      	97%      	97%      	98%      	98%      	99%      	99%      	100%      
+Print called with level 3
+-1<--344{page# 344;order 340;numKeys 1{}->-1
+ 
+ 
+-1<--343{page# 343;order 340;numKeys 69{}->-1
+ 
+ 
+-1<--274{page# 274;order 340;numKeys 34{}->275
+ 
+ 
+274<--275{page# 275;order 340;numKeys 170{}->276
+ 
+ 
+275<--276{page# 276;order 340;numKeys 170{}->277
+ 
+ 
+276<--277{page# 277;order 340;numKeys 170{}->278
+ 
+ 
+277<--278{page# 278;order 340;numKeys 170{}->279
+ 
+ 
+278<--279{page# 279;order 340;numKeys 170{}->280
+ 
+ 
+279<--280{page# 280;order 340;numKeys 170{}->281
+ 
+ 
+280<--281{page# 281;order 340;numKeys 170{}->282
+ 
+ 
+281<--282{page# 282;order 340;numKeys 170{}->283
+ 
+ 
+282<--283{page# 283;order 340;numKeys 170{}->284
+ 
+ 
+283<--284{page# 284;order 340;numKeys 170{}->285
+ 
+ 
+284<--285{page# 285;order 340;numKeys 170{}->286
+ 
+ 
+285<--286{page# 286;order 340;numKeys 170{}->287
+ 
+ 
+286<--287{page# 287;order 340;numKeys 170{}->288
+ 
+ 
+287<--288{page# 288;order 340;numKeys 170{}->289
+ 
+ 
+288<--289{page# 289;order 340;numKeys 170{}->290
+ 
+ 
+289<--290{page# 290;order 340;numKeys 170{}->291
+ 
+ 
+290<--291{page# 291;order 340;numKeys 170{}->292
+ 
+ 
+291<--292{page# 292;order 340;numKeys 170{}->293
+ 
+ 
+292<--293{page# 293;order 340;numKeys 170{}->294
+ 
+ 
+293<--294{page# 294;order 340;numKeys 170{}->295
+ 
+ 
+294<--295{page# 295;order 340;numKeys 170{}->296
+ 
+ 
+295<--296{page# 296;order 340;numKeys 170{}->297
+ 
+ 
+296<--297{page# 297;order 340;numKeys 170{}->298
+ 
+ 
+297<--298{page# 298;order 340;numKeys 170{}->299
+ 
+ 
+298<--299{page# 299;order 340;numKeys 170{}->300
+ 
+ 
+299<--300{page# 300;order 340;numKeys 170{}->301
+ 
+ 
+300<--301{page# 301;order 340;numKeys 170{}->302
+ 
+ 
+301<--302{page# 302;order 340;numKeys 170{}->303
+ 
+ 
+302<--303{page# 303;order 340;numKeys 170{}->304
+ 
+ 
+303<--304{page# 304;order 340;numKeys 170{}->305
+ 
+ 
+304<--305{page# 305;order 340;numKeys 170{}->306
+ 
+ 
+305<--306{page# 306;order 340;numKeys 170{}->307
+ 
+ 
+306<--307{page# 307;order 340;numKeys 170{}->308
+ 
+ 
+307<--308{page# 308;order 340;numKeys 170{}->309
+ 
+ 
+308<--309{page# 309;order 340;numKeys 170{}->310
+ 
+ 
+309<--310{page# 310;order 340;numKeys 170{}->311
+ 
+ 
+310<--311{page# 311;order 340;numKeys 170{}->312
+ 
+ 
+311<--312{page# 312;order 340;numKeys 170{}->313
+ 
+ 
+312<--313{page# 313;order 340;numKeys 170{}->314
+ 
+ 
+313<--314{page# 314;order 340;numKeys 170{}->315
+ 
+ 
+314<--315{page# 315;order 340;numKeys 170{}->316
+ 
+ 
+315<--316{page# 316;order 340;numKeys 170{}->317
+ 
+ 
+316<--317{page# 317;order 340;numKeys 170{}->318
+ 
+ 
+317<--318{page# 318;order 340;numKeys 170{}->319
+ 
+ 
+318<--319{page# 319;order 340;numKeys 170{}->320
+ 
+ 
+319<--320{page# 320;order 340;numKeys 170{}->321
+ 
+ 
+320<--321{page# 321;order 340;numKeys 170{}->322
+ 
+ 
+321<--322{page# 322;order 340;numKeys 170{}->323
+ 
+ 
+322<--323{page# 323;order 340;numKeys 170{}->324
+ 
+ 
+323<--324{page# 324;order 340;numKeys 170{}->325
+ 
+ 
+324<--325{page# 325;order 340;numKeys 170{}->326
+ 
+ 
+325<--326{page# 326;order 340;numKeys 170{}->327
+ 
+ 
+326<--327{page# 327;order 340;numKeys 170{}->328
+ 
+ 
+327<--328{page# 328;order 340;numKeys 170{}->329
+ 
+ 
+328<--329{page# 329;order 340;numKeys 170{}->330
+ 
+ 
+329<--330{page# 330;order 340;numKeys 170{}->331
+ 
+ 
+330<--331{page# 331;order 340;numKeys 170{}->332
+ 
+ 
+331<--332{page# 332;order 340;numKeys 170{}->333
+ 
+ 
+332<--333{page# 333;order 340;numKeys 170{}->334
+ 
+ 
+333<--334{page# 334;order 340;numKeys 170{}->335
+ 
+ 
+334<--335{page# 335;order 340;numKeys 170{}->336
+ 
+ 
+335<--336{page# 336;order 340;numKeys 170{}->337
+ 
+ 
+336<--337{page# 337;order 340;numKeys 170{}->338
+ 
+ 
+337<--338{page# 338;order 340;numKeys 170{}->339
+ 
+ 
+338<--339{page# 339;order 340;numKeys 170{}->340
+ 
+ 
+339<--340{page# 340;order 340;numKeys 170{}->341
+ 
+ 
+340<--341{page# 341;order 340;numKeys 170{}->342
+ 
+ 
+341<--342{page# 342;order 340;numKeys 171{}->-1
+ 
+ 
+State:Index is open.
+Index Root Page number:344
+Index Smallest Page number:274
+Index #Pages:72
+Index BTNode order:340
+Index B+ Tree Height:3
+-rw------- 1 wwt wwt 1417216 Jun 17 14:28 testrel.0
+Verifying index contents
+Verifying index contents
+Doing "ls -l *testrel*"
+Passed Test 3
+
+Ending IX component test.
+

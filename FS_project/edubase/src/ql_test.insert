@@ -1,0 +1,13 @@
+/* A sample script being distributed to the students.  */
+/* You should make more scripts and share them (via    */
+/* the mechanism outlined in class and in the          */
+/* handouts) with other students.                      */
+
+!ls
+  create table major(majorid c6, name c50, deptid c5);
+  insert into major values("PhdCS","ABC","MATH");
+!ls
+
+print major;
+
+exit;

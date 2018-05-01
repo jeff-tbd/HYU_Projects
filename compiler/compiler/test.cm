@@ -1,0 +1,17 @@
+int a;
+
+void func(int a)
+{
+    int x;
+    x=10;
+    x = a;
+}
+
+int main(void)
+{
+    int x;
+    int arr[10];
+    x=10;
+    func(x);
+    return 0;
+}

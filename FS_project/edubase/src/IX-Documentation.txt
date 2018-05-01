@@ -1,0 +1,62 @@
+Header Files:
+ix.h(to do)
+ix_internal.h(to do)
+
+Source Files:
+btnode.cc(to do)
+ix_manager.cc(to do)
+ix_indexhandler.cc(to do)
+ix_indexscan.cc(to do)
+ix_internal.cc(to do)
+ix_error.cc(to do)
+
+define 4 classes: 
+(1)BTNode
+(2)IX_Manager
+(3)IX_IndexHandle
+(4)IX_IndexScan
+
+2 struct:
+(1)DataEntry()
+(2)IndexHeader(to do)
+
+
+(1)BTNode class
+definition:P0  (K1, P1) (K2, P2)... ...(Kn, Pn) 
+{
+private:
+	int order;//max nbr of keys can be stored in a node
+	pBTNode pBTNode0;
+	pair(void *k,pBTNode*);
+
+public:
+	insertKey(void* k,RID rid);
+	deleteKey(void* k,RID rid);
+	cmpKeyValue(void* k1,void* k2);	
+	splitNode();
+	mergeNode();
+}
+
+(2)IX_Manager
+creatIndex():
+  creat a file to contain the index. The index will have a name"filename.indexno". The first page will be created at the same time. In the first page, some header information will be recorded.
+
+destroyIndex()
+openIndex()
+closeIndex()
+
+(3)IX_IndexHandle
+insertEntry()
+deleteEntry()
+
+
+
+
+
+
+
+
+
+
+	
+

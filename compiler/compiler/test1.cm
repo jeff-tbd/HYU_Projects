@@ -1,0 +1,22 @@
+void func(int a)
+{
+    int y;
+    y = 1;
+}
+
+int main(void)
+{
+    int x[10];
+    int k;
+    void p;
+    k = 1;
+    x = 3;
+    y = 3;
+    func( );
+    han(a);
+    if(k == 1)
+    {
+        k = 3;
+    }
+    return 0;
+}
